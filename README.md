@@ -12,9 +12,6 @@ Users can create accounts, log in securely using credentials, and perform basic 
 
 For the best experience, compile and run the program using the **Command Prompt / Terminal**.
 
-🎥 **Video Demonstration:**  
-https://youtu.be/7ji2pZKPW98
-
 ---
 
 ## 🚀 Features
