@@ -3,8 +3,6 @@
 A **console-based ATM simulation system** developed using **Core Java**.  
 This project demonstrates fundamental Object-Oriented Programming concepts and basic in-memory data handling.
 
-> ⚠️ Educational project only. Not intended for real-world banking use.
-
 ---
 
 ## 🎯 Project Overview
